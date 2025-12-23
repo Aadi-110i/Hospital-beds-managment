@@ -1,0 +1,4 @@
+project_id = "taxicieddnvooxhclzsh"
+
+[functions.medicine-chat]
+verify_jwt = false
